@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CS-FC484G3</Machine>
+    <WindowsUser>ls</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>munchy-system</PackageIdentityName>
+    <PackageIdentityPublisher>CN=munchy</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\obj\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\bin\AnyCPU\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>888002E26A5CEF8F3C256ED54967DEBF811F7370EDFA3B99620D264DA2FA7EAC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>munchy-system_1.0.0.0_neutral__3r15z645rgqxw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>munchy-system_3r15z645rgqxw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>munchy-system</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=munchy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\bin\AnyCPU\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:05:42.279</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-02-23T19:55:34.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:25.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:26.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:26.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:26.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:26.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-02-24T18:03:24.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\WapProjTemplate1\bin\AnyCPU\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-02-24T18:05:42.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\ConsoleApp1\bin\Release\ConsoleApp1.exe">
+      <PackagePath>ConsoleApp1\ConsoleApp1.exe</PackagePath>
+      <Modified>2022-02-24T17:54:45.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ls\Documents\GitHub\qqqqq\ConsoleApp1\bin\Release\ConsoleApp1.exe.config">
+      <PackagePath>ConsoleApp1\ConsoleApp1.exe.config</PackagePath>
+      <Modified>2022-02-23T23:32:17.436</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
